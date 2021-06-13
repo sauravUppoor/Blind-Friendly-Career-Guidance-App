@@ -1,6 +1,7 @@
 <br />
 <p align="center">
-  <h3 align="center">CareerViz</h3>
+  <img src="https://www.freelogoservices.com/api/main/images/1j+ojVVCOMkX9Wyrexe4hGfa37TV+VUpwVTbizxmfGwQoQJkkigphfpv...fgtb0NZoBRejhUJcMU4jiF6V4kD3UQ6oXbQZs4AVn8=" alt="Logo" height="100">
+<!--   <h3 align="center">CareerViz</h3> -->
 
   <p align="center">
      Career guidance desktop application with voice-controlled user interface
